@@ -95,6 +95,11 @@
     padding-top: 2rem;
 }
 
+.img-slides{
+    height: 25em;
+    width: 35em;
+}
+
 
 .container h1 {
     font-size:medium ;
@@ -130,11 +135,15 @@
     }
 
     .carousel-slide h1{
-        font-size: medium;
+        font-size: 22px;
     }
 
     .carousel-slide img{
         height: 15rem;
+    }
+
+    .img-slides{
+        width: 25em;
     }
 
 }
